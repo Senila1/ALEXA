@@ -44,7 +44,7 @@
         "SONGU": {
             "description": "Customizable Song upload message",
             "required": false,
-            "value": "*◦•●◉✿Uploading Your Song✿◉●•◦*"
+            "value": "*++ «Uploading Your Song» ++*"
         },
         "LANGUAGE": {
             "description": "Enter your language. SI - Sinhala | EN - English | ES - Spanish(ag)",
